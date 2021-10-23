@@ -9,6 +9,6 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
-        .target(name: "SwiftyCrypto", path: "SwiftyCrypto")
+        .target(name: "SwiftyCrypto")
     ],
     swiftLanguageVersions: [.v5])
