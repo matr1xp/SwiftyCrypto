@@ -5,6 +5,7 @@
 //  Created by Shuo Wang on 2018/1/15.
 //  Copyright © 2018年 Yufu. All rights reserved.
 //
+import Foundation
 
 public enum SwiftyCryptoRSAKeySize: Int {
     case RSAKey64 = 512
